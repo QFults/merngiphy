@@ -5,7 +5,6 @@ const GifSchema = new Schema({
   source: String,
   url: String,
   author: String,
-  avatar: String,
   gifId: String
 })
 
